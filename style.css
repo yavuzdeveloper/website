@@ -1,0 +1,190 @@
+ body {
+    font-family: Verdana, monospace, sans-serif;
+}
+
+.container{
+    width: 960px;
+    position: relative; 
+    margin: auto;
+}
+
+.iconPromoDiv{
+    height: 250px; 
+    width: 230px;
+    
+}
+
+.iconPromo{ 
+    width: 230px;
+    height: auto;
+}
+
+.promo-row{
+    background-color: red;
+    display:flex; 
+    flex-direction:row;
+    height: 180px; 
+    width: 960px;
+    position: relative; 
+    margin: auto;
+}
+
+.content1{
+    padding: 15px;
+    background-color: blue;
+    color: wheat;
+    font-size:12pt;	
+    width: 730px;
+    height: 153px;
+}
+
+.content21{
+    padding-left: 10px;
+    padding-top: 15px;
+    background-color: black;
+    color: wheat;
+    height: 165px; 
+    width: 230px;
+    font-size:12pt;	
+}
+
+.content22{
+    padding: 15px;
+    background-color: rgb(219, 94, 203);
+    color: wheat;
+    font-size:12pt;	
+    width: 730px;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 50px;
+}
+
+h2{
+    text-align: center;
+}
+
+.iconDiv{
+    width: 150px;
+    text-align: center;
+    position: relative;
+    margin: auto;   
+}
+
+.icon{
+    width: 150px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+
+.rowIcons{
+    display:flex; 
+    flex-direction:row;
+    width: 960px;
+    position: relative;
+    margin: auto;
+}
+
+.rowIconFoot{
+    display:flex; 
+    flex-direction:row;
+    height: 80px; 
+    width: 960px;
+    position: relative;
+    margin: auto;
+}
+
+.h4Div{
+    width: 250px;
+    padding: 0 30px 0 65px;
+}
+
+.buttonDiv{
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.button1{
+    background-color: #222fe6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.rowContent2{
+    width: 960px;
+    height: 320px;
+    position: relative;
+    margin: auto;
+    display:flex; 
+    flex-direction:row;
+    padding-top: 20px;
+    border-bottom: 3px outset rgb(216, 212, 212);
+    border-top: 3px outset  rgb(216, 212, 212);
+}
+
+.rowContent21{
+    width: 465px;
+    padding: 20px;
+}
+
+.rowAdvert{
+    display:flex; 
+    flex-direction:row;
+    width: 960px;
+    position: relative;
+    margin: auto;
+}
+
+.rowAdvertContent3{
+    background-color: rgb(214, 205, 205);
+    width: 465px;
+    height: 347px;
+    padding: 20px;
+}
+
+.rowContent4{
+    display:flex; 
+    flex-direction:row;
+    width: 960px;
+    height: 285px;
+    position: relative;
+    margin: auto;
+}
+
+.content4{
+    width: 530px;
+    height: 230px;
+    padding:0 30px 0 10px;
+    padding: 20px;
+}
+
+.icon4{
+    width: 300px;
+    height: 210px;
+    padding: 20px;
+}
+
+.disclaimer{
+    background-color: rgb(214, 205, 205);
+    width: 920px;
+    height: 130px;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+}
+
+.content212{
+    color: blue;
+}
